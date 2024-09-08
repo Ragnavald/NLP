@@ -9,4 +9,4 @@
 ## Funcionalidades:
 - **Análise de Artigos**: A News API é responsável por fornecer as notícias para o modelo analisar;
 - **Análise dos Indicativos:** Médias móveis exponênciais e simples são fornecidas para o modelo analisar;
-- **Análise final**: O modelo recebe um prompt que recebe as médias e as notícias, o critério estabelecido foi de 85% de relevâncias para as notícias e de 15% para os indicativos. 
+- **Análise final**: O modelo recebe um prompt com as médias e as notícias, o critério estabelecido foi de 85% de relevâncias para as notícias e de 15% para os indicativos. 
