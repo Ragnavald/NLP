@@ -1,6 +1,6 @@
 # Anallisando Tendências do mercado de commodities
 
-## O objetivo do projeto é analisar a tendência de um commoditie, dados as notícias e indicativos técnicos (médias móvel exponêncial e simples). Técnicas de PLN foram empregadas como a **sumarização de textos**, **análise de sentimentos** e **extração de informação**.
+## O objetivo do projeto é analisar as tendências dos commodities, dados as notícias e indicativos técnicos (médias móvel exponêncial e simples). Técnicas de PLN foram empregadas como a **sumarização de textos**, **análise de sentimentos** e **extração de informação**.
 
 ## Recurso utilizados:
 - **LLM**: Gemini;
